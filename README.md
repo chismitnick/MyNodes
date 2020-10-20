@@ -1,2 +1,2 @@
 # MyNodes
-A collection of javascript programs using Nodejs and Visual studio code.
+A Javascript project using Vanilla,Node and Express JS. 
